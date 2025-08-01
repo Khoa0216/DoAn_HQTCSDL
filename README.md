@@ -1,5 +1,5 @@
 # Quản lý rạp chiếu phim.
-Đây là đồ án cuối kỳ môn Lập Trình Java và Hệ Quản Trị Cơ Sở dữ liệu.
+Đây là đồ án cuối kỳ môn Lập Trình Java và Hệ Quản Trị Cơ Sở dữ liệu. Sử dụng Java và PL/SQL.
 ## Tính năng:
 -Thêm, xóa, sửa tài khoản nhân viên.
 -Thống kê doanh thu.
